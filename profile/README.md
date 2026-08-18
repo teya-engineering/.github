@@ -29,13 +29,15 @@ This is where we share the parts of that work we think are useful to everyone el
 
 We run a lot of services, and we would rather they were boring. The interesting part of a payments platform should be the payments, not the plumbing.
 
-<img alt="Technology stack: Java, Kotlin, Spring Boot, Kafka, PostgreSQL" src="https://raw.githubusercontent.com/teya-engineering/.github/main/profile/assets/tech-stack.png" width="539" height="39">
+<img alt="Technology stack: Java, Spring Boot, Kafka, Flink, PostgreSQL, Kubernetes" src="https://raw.githubusercontent.com/teya-engineering/.github/main/profile/assets/tech-stack.png" width="665" height="39">
 
-- **The JVM does the heavy lifting.** Java and Kotlin on Spring Boot for most services, on the current LTS or better.
+- **The JVM does the heavy lifting.** Java and Kotlin on Spring Boot for most services, always on latest versions.
 - **Events over calls.** Kafka carries most of what moves between services, with schemas that are versioned and checked before anything ships.
 - **Postgres until it hurts.** Then we partition it. We are slow to add a new datastore and quick to lean on the one we know.
+- **AWS and Kubernetes underneath.** That is where our services run and where the platform team invests, so it is where new services should run too.
 - **If we cannot see it, it is not done.** Metrics, logs, and traces are part of the change, not a follow-up ticket.
 - **Small pull requests, reviewed by humans.** They are easier to reason about, and much easier to roll back at 2am.
+- **There is a paved road, and we stay on it.** We optimise for boring.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teya-engineering/.github/main/profile/assets/section-work-dark.png">
@@ -58,7 +60,7 @@ The technical choices above only hold up because of how the teams around them wo
   - New requirements and new information are welcome, not a setback.
   - Plan enough to move forward with confidence, and be ready to change direction when it makes sense.
 
-- **🛠️️Prefer simplicity over perfection**
+- **️🔨 Prefer simplicity over perfection**
   - The simple thing that ships and can be changed later beats the perfect thing still being designed.
 
 - **✨ AI first**
@@ -80,7 +82,7 @@ The technical choices above only hold up because of how the teams around them wo
 - **🎉 Have fun**
   - We spend a large part of our lives doing this. It should be worth showing up for.
 
-<a href="https://jobs.ashbyhq.com/teya"><img alt="Come build with us. We are hiring engineers across Europe, in teams working on payments, banking, data, and the platform underneath all of it. See open roles." src="https://raw.githubusercontent.com/teya-engineering/.github/main/profile/assets/hiring-cta.png" width="880"></a>
+<a href="https://www.teya.com/careers"><img alt="Come build with us. We are hiring engineers across Europe, in teams working on payments, banking, data, and the platform underneath all of it. See open roles." src="https://raw.githubusercontent.com/teya-engineering/.github/main/profile/assets/hiring-cta.png" width="880"></a>
 
 <p align="center">
   <sub>Made by the engineers at <a href="https://www.teya.com">Teya</a>.</sub>
