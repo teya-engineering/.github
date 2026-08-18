@@ -1,13 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="520" viewBox="0 0 2400 520" role="img" aria-label="Teya Engineering">
-  <rect width="2400" height="520" fill="#FFFFFF"/>
-  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
-    <text x="140" y="272" font-size="132" font-weight="700" letter-spacing="-4" fill="#151515">Teya <tspan fill="#5F6210">Engineering</tspan></text>
-    <text x="146" y="378" font-size="46" fill="#5A5A5A">Open source from the team building payments for local business.</text>
-  </g>
-  <g fill="none" stroke="#A6A836" stroke-width="18" stroke-linecap="round">
-    <path d="M2045 206.4 A70 70 0 0 1 2045 313.6" opacity="1"/>
-    <path d="M2080.4 164.2 A125 125 0 0 1 2080.4 355.8" opacity="0.82"/>
-    <path d="M2115.7 122.1 A180 180 0 0 1 2115.7 397.9" opacity="0.64"/>
-    <path d="M2151.1 80 A235 235 0 0 1 2151.1 440" opacity="0.46"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="682" viewBox="0 0 880 250" role="img" aria-label="Teya Engineering">
+  <defs>
+    <clipPath id="banner-clip">
+      <rect width="880" height="250" rx="16"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#banner-clip)">
+    <rect width="880" height="250" rx="16" fill="#151515"/>
+    <rect x="622" y="24" width="170" height="170" rx="34" fill="#DDE048" transform="rotate(15 707 109)"/>
+    <rect x="734" y="150" width="110" height="110" rx="22" fill="none" stroke="#FF9B04" stroke-width="5" transform="rotate(15 789 205)"/>
+    <rect x="578" y="168" width="64" height="64" rx="13" fill="none" stroke="#A868FB" stroke-width="4" transform="rotate(15 610 200)"/>
+    <g font-family="Figtree, sans-serif">
+      <text x="56" y="101" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#F5F5F5">Teya <tspan fill="#DDE048">Engineering</tspan></text>
+      <text x="56" y="139" font-size="18" font-weight="400" fill="#F5F5F5" opacity="0.72">Open source from the team building payments for local business.</text>
+    </g>
   </g>
 </svg>

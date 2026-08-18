@@ -10,7 +10,7 @@ organisation as a whole.
 | Path | What it does |
 | :-- | :-- |
 | `profile/README.md` | The page shown at [github.com/teya-engineering](https://github.com/teya-engineering). This is the public front door. |
-| `profile/assets/` | Banner images for that page, in light and dark, plus the SVG sources they were rendered from. |
+| `profile/assets/` | Branded images for that page, plus the SVG sources they were rendered from. |
 
 Note that `profile/README.md` is the one that renders publicly. This root file
 is only visible to people who open the repo directly.
@@ -27,22 +27,23 @@ Keep any such list to one plain sentence per project, describing the problem it
 solves. Anyone skimming the page is deciding whether to click, not reading
 documentation.
 
-## Changing the banner
+## Changing profile artwork
 
 The images are rendered from the SVGs next to them, so edit the SVG rather than
-the PNG:
+the PNG. Render every asset at its source size:
 
 ```sh
 cd profile/assets
-rsvg-convert -w 2400 -o banner-dark.png banner-dark.svg
-rsvg-convert -w 2400 -o banner-light.png banner-light.svg
+for source in *.svg; do
+  rsvg-convert -o "${source%.svg}.png" "$source"
+done
 ```
 
 `rsvg-convert` comes from `librsvg` (`brew install librsvg`). Any SVG renderer
-works, as long as the output stays 2400px wide so the banner is sharp on retina
-screens.
+works, as long as the output keeps the dimensions declared in each SVG. The
+artwork is rendered at two times its display size, except for the banner, which
+is 2400px wide.
 
-Swapping in artwork from the brand team is fine too. Keep both a light and a
-dark variant, since the profile page picks one based on the visitor's GitHub
-theme, and keep the file names the same so the links in `profile/README.md`
-keep working.
+Figtree must be installed before rendering because the profile artwork uses it.
+Keep the image names stable so the links in `profile/README.md` continue to
+work.
