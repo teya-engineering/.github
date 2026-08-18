@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1760" height="530" viewBox="0 0 880 265" role="img" aria-label="Come build with us. See open roles.">
+  <defs>
+    <clipPath id="cta-clip">
+      <rect width="880" height="265" rx="24"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#cta-clip)">
+    <rect width="880" height="265" rx="24" fill="#DDE048"/>
+    <rect x="-36" y="-36" width="120" height="120" rx="24" fill="none" stroke="#151515" stroke-opacity="0.16" stroke-width="4" transform="rotate(15 24 24)"/>
+    <rect x="774" y="167" width="150" height="150" rx="30" fill="none" stroke="#151515" stroke-opacity="0.16" stroke-width="4" transform="rotate(15 849 242)"/>
+    <g font-family="Figtree, sans-serif" fill="#151515" text-anchor="middle">
+      <text x="440" y="79" font-size="34" font-weight="800" letter-spacing="-1">Come build with us</text>
+      <text x="440" y="119" font-size="16" font-weight="400">We are hiring engineers across Europe, in teams working on payments,</text>
+      <text x="440" y="141" font-size="16" font-weight="400">banking, data, and the platform underneath all of it.</text>
+    </g>
+    <rect x="342" y="171" width="196" height="46" rx="11" fill="#151515"/>
+    <text x="440" y="200.5" text-anchor="middle" font-family="Figtree, sans-serif" font-size="15" font-weight="700" fill="#DDE048">See open roles →</text>
+  </g>
+</svg>
