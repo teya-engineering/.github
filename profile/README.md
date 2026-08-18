@@ -38,14 +38,31 @@ We run a lot of services, and we would rather they were boring. The interesting 
 
 The technical choices above only hold up because of how the teams around them work. These are our engineering tenets.
 
-- **Extreme ownership 🚀** Own your system end to end, from design through production and beyond. Ownership means improving what you built without being asked, and raising the bar as you go. Fix problems at the root so the same mistake does not come back.
-- **Measure yourself on impact, not effort 💥** Understand why a thing is being built, not just how. Part engineer, part product thinker, part project driver. If describing, documenting, or tracking a change takes longer than making it, just make it.
-- **Respond to change over following a plan 🔄** New requirements and new information are welcome, not a setback. Plan enough to move forward with confidence, and be ready to change direction when it makes sense.
+- **Extreme ownership 🚀** Own your system end to end, from design through production and beyond.
+  - Improve what you built without being asked, and raise the bar as you go.
+  - Fix problems at the root so the same mistake does not come back.
+
+- **Measure yourself on impact, not effort 💥** Understand why a thing is being built, not just how.
+  - Part engineer, part product thinker, part project driver.
+  - If describing, documenting, or tracking a change takes longer than making it, just make it.
+
+- **Respond to change over following a plan 🔄** New requirements and new information are welcome, not a setback.
+  - Plan enough to move forward with confidence, and be ready to change direction when it makes sense.
+
 - **Prefer simplicity over perfection 🛠️** The simple thing that ships and can be changed later beats the perfect thing still being designed.
+
 - **AI first ✨** Reach for AI by default, both in how we work day to day and in what we put in front of customers.
-- **Radical transparency and communication 🪞** Work in the open. Backlogs, discussions, and retrospectives are there for anyone to read. Share the wins and the failures, and make room for the people who share.
-- **Own your growth 🌱** Seek out knowledge, try new tools, make time to get better. Nobody will do it for you. Be part of the engineering community here: share what you know, ask questions, stay curious about what others are doing.
-- **Prioritise with judgement 🎯** We care about quality and the long term, and we also need steady, imperfect progress. Finding the line between one deep focus and a thousand spinning plates is the job.
+
+- **Radical transparency and communication 🪞** Work in the open.
+  - Backlogs, discussions, and retrospectives are there for anyone to read.
+  - Share the wins and the failures, and make room for the people who share.
+
+- **Own your growth 🌱** Seek out knowledge, try new tools, make time to get better. Nobody will do it for you.
+  - Be part of the engineering community here: share what you know, ask questions, stay curious about what others are doing.
+
+- **Prioritise with judgement 🎯** We care about quality and the long term, and we also need steady, imperfect progress.
+  - Finding the line between one deep focus and a thousand spinning plates is the job.
+
 - **Have fun 🎉** We spend a large part of our lives doing this. It should be worth showing up for.
 
 ## Come build with us
