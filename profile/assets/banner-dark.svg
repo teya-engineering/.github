@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="520" viewBox="0 0 2400 520" role="img" aria-label="Teya Engineering">
+  <rect width="2400" height="520" fill="#151515"/>
+  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+    <text x="140" y="272" font-size="132" font-weight="700" letter-spacing="-4" fill="#FFFFFF">Teya <tspan fill="#DDE048">Engineering</tspan></text>
+    <text x="146" y="378" font-size="46" fill="#9B9B9B">Open source from the team building payments for local business.</text>
+  </g>
+  <g fill="none" stroke="#DDE048" stroke-width="18" stroke-linecap="round">
+    <path d="M2045 206.4 A70 70 0 0 1 2045 313.6" opacity="1"/>
+    <path d="M2080.4 164.2 A125 125 0 0 1 2080.4 355.8" opacity="0.78"/>
+    <path d="M2115.7 122.1 A180 180 0 0 1 2115.7 397.9" opacity="0.55"/>
+    <path d="M2151.1 80 A235 235 0 0 1 2151.1 440" opacity="0.32"/>
+  </g>
+</svg>
