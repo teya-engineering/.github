@@ -51,7 +51,7 @@ The technical choices above only hold up because of how the teams around them wo
 
 - **Prefer simplicity over perfection 🛠️** The simple thing that ships and can be changed later beats the perfect thing still being designed.
 
-- **AI first ✨** Reach for AI by default, both in how we work day to day and in what we put in front of customers.
+- **AI first ✨** Reach for AI by default in how we work, and expect what that means to keep changing.
 
 - **Radical transparency and communication 🪞** Work in the open.
   - Backlogs, discussions, and retrospectives are there for anyone to read.
