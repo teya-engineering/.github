@@ -7,10 +7,10 @@ organisation as a whole.
 
 ## What's in here
 
-| Path | What it does |
-| :-- | :-- |
+| Path                | What it does                                                                                                         |
+|:--------------------|:---------------------------------------------------------------------------------------------------------------------|
 | `profile/README.md` | The page shown at [github.com/teya-engineering](https://github.com/teya-engineering). This is the public front door. |
-| `profile/assets/` | Branded images for that page, plus the SVG sources they were rendered from. |
+| `profile/assets/`   | Branded images for that page, plus the SVG sources they were rendered from.                                          |
 
 Note that `profile/README.md` is the one that renders publicly. This root file
 is only visible to people who open the repo directly.
