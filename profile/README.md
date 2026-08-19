@@ -5,10 +5,10 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.teya.com"><img alt="Website" src="https://raw.githubusercontent.com/teya-engineering/.github/main/profile/assets/button-website.png" width="93" height="44"></a>&nbsp;<wbr>&nbsp;
-  <a href="https://www.teya.com/blog"><img alt="Blog" src="https://raw.githubusercontent.com/teya-engineering/.github/main/profile/assets/button-blog.png" width="73" height="44"></a>&nbsp;<wbr>&nbsp;
-  <a href="https://jobs.ashbyhq.com/teya"><img alt="Careers - we're hiring" src="https://raw.githubusercontent.com/teya-engineering/.github/main/profile/assets/button-careers.png" width="178" height="44"></a>&nbsp;<wbr>&nbsp;
-  <a href="https://www.linkedin.com/company/teya-global"><img alt="LinkedIn" src="https://raw.githubusercontent.com/teya-engineering/.github/main/profile/assets/button-linkedin.png" width="95" height="44"></a>
+  <a href="https://www.teya.com"><img alt="Website" src="https://img.shields.io/badge/Website-151515?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMiAxMmgyME0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIvPjwvc3ZnPgo="></a>&nbsp;<wbr>&nbsp;
+  <a href="https://www.teya.com/blog"><img alt="Blog" src="https://img.shields.io/badge/Blog-151515?style=for-the-badge&logo=rss&logoColor=F5F5F5"></a>&nbsp;<wbr>&nbsp;
+  <a href="https://jobs.ashbyhq.com/teya"><img alt="Careers - we&apos;re hiring" src="https://img.shields.io/badge/Careers_--_we%27re_hiring-DDE048?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMTUxNTE1IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI%2BPHJlY3QgeD0iMiIgeT0iNyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE0IiByeD0iMiIvPjxwYXRoIGQ9Ik0xNiAyMVY1YTIgMiAwIDAgMC0yLTJoLTRhMiAyIDAgMCAwLTIgMnYxNiIvPjwvc3ZnPgo="></a>&nbsp;<wbr>&nbsp;
+  <a href="https://www.linkedin.com/company/teya-global"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDctLjkgMS42My0xLjg1IDMuMzYtMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ1djYuMjl6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzJ2MjAuNTZDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43MlYxLjcyQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4K"></a>
 </p>
 
 <picture>
