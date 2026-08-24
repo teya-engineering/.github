@@ -1,9 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teya-engineering/.github/main/profile/assets/banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teya-engineering/.github/main/profile/assets/banner-light.png">
-    <img alt="Teya Engineering - open source from the team building payments for local business" src="https://raw.githubusercontent.com/teya-engineering/.github/main/profile/assets/banner-light.png" width="880">
-  </picture>
+  <img alt="Teya Engineering - open source from the team building payments for local business" src="https://raw.githubusercontent.com/teya-engineering/.github/main/profile/assets/banner.png" width="880">
 </p>
 
 <p align="center">
