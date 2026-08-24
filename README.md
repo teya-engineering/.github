@@ -10,7 +10,7 @@ organisation as a whole.
 | Path                | What it does                                                                                                         |
 |:--------------------|:---------------------------------------------------------------------------------------------------------------------|
 | `profile/README.md` | The page shown at [github.com/teya-engineering](https://github.com/teya-engineering). This is the public front door. |
-| `profile/assets/`   | Branded images for that page, plus the SVG sources they were rendered from.                                          |
+| `profile/assets/`   | Branded images for that page.                                                                                        |
 
 Note that `profile/README.md` is the one that renders publicly. This root file
 is only visible to people who open the repo directly.
@@ -29,21 +29,8 @@ documentation.
 
 ## Changing profile artwork
 
-The images are rendered from the SVGs next to them, so edit the SVG rather than
-the PNG. Render every asset at its source size:
-
-```sh
-cd profile/assets
-for source in *.svg; do
-  rsvg-convert -o "${source%.svg}.png" "$source"
-done
-```
-
-`rsvg-convert` comes from `librsvg` (`brew install librsvg`). Any SVG renderer
-works, as long as the output keeps the dimensions declared in each SVG. The
-artwork is rendered at two times its display size, except for the banner, which
-is 2400px wide.
-
-Figtree must be installed before rendering because the profile artwork uses it.
-Keep the image names stable so the links in `profile/README.md` continue to
-work.
+Replace the exported PNG files in `profile/assets` and keep their names stable
+so the links in `profile/README.md` continue to work. The artwork is rendered
+at two times its display size. The banner is 2400 x 682 pixels, section headings
+are 1760 x 200 pixels, the technology strip is 1330 x 78 pixels, and the hiring
+panel is 1760 x 655 pixels.
